@@ -1,0 +1,12 @@
+{
+  "name": "scroll-to-class-name",
+  "version": "0.0.1",
+  "description": "Add mutation observer, when a class name was added, scroll in to its position.",
+  "main": "index.js",
+  "author": "javascriptfield",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptfield/add-reuqest-header.git"
+  },
+  "license": "MIT"
+}
